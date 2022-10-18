@@ -675,7 +675,7 @@
     height: auto;
   }
   .home-knowledge-parent {
-    height: 924px;
+    height: 2383px;
   }
   .home-knowledge {
     top: -50px;
@@ -683,6 +683,20 @@
     right: 0px;
     width: 80%;
     margin: auto;
+    flex-direction: column;
+  }
+  .home-container11 {
+    width: 100%;
+  }
+  .home-container15 {
+    width: 100%;
+    border-top-width: 2px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 2px;
+  }
+  .home-container19 {
+    width: 100%;
   }
   .home-footer {
     padding-left: var(--dl-space-space-twounits);

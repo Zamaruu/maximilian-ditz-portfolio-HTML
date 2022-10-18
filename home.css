@@ -46,7 +46,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.home-link1 {
+.home-link01 {
   display: contents;
 }
 .home-container04 {
@@ -112,6 +112,7 @@
   margin-bottom: 0px;
   padding-right: var(--dl-space-space-unit);
   padding-bottom: 12px;
+  text-decoration: none;
 }
 .home-button:hover {
   color: var(--dl-color-gray-white);
@@ -259,7 +260,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-link2 {
+.home-link02 {
   display: contents;
 }
 .home-image3 {
@@ -292,7 +293,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-link3 {
+.home-link03 {
   display: contents;
 }
 .home-image4 {
@@ -325,7 +326,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-link4 {
+.home-link04 {
   display: contents;
 }
 .home-image5 {
@@ -488,19 +489,22 @@
   align-items: center;
   flex-direction: row;
 }
-.home-text81 {
+.home-link05 {
   margin-left: 0px;
+  text-decoration: none;
+}
+.home-text81 {
+  margin-left: var(--dl-space-space-unit);
+}
+.home-link06 {
+  margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.home-link07 {
+  margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
 }
 .home-text82 {
-  margin-left: var(--dl-space-space-unit);
-}
-.home-text83 {
-  margin-left: var(--dl-space-space-unit);
-}
-.home-text84 {
-  margin-left: var(--dl-space-space-unit);
-}
-.home-text85 {
   margin-left: var(--dl-space-space-unit);
 }
 .home-separator {
@@ -535,7 +539,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.home-link5 {
+.home-link08 {
   display: contents;
 }
 .home-icon12 {
@@ -544,7 +548,7 @@
   margin-left: var(--dl-space-space-twounits);
   text-decoration: none;
 }
-.home-link6 {
+.home-link09 {
   display: contents;
 }
 .home-icon14 {
@@ -698,7 +702,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .home-text86 {
+  .home-text83 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
@@ -778,7 +782,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .home-text86 {
+  .home-text83 {
     text-align: center;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
